@@ -13,8 +13,7 @@ This is a simple Flutter application demonstrating the usage of a Drawer widget.
   - Edit Profile
   - LogOut
 - **Custom Drawer Header**: A Drawer header with user information, including name, email, and an avatar with custom styling.
-#Project Structure
-The main file for the app is main.dart, which contains the following key components:
+
 
 MyApp: The root widget of the application.
 MyHomePage: The home page of the app, containing the AppBar, body content, and the Drawer.
